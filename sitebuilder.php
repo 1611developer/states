@@ -84,7 +84,7 @@ fclose($myfile);
 echo '<table class="table table-bordered">';
 echo '<tr>';
 echo '<td class="text-center">';
-echo 'File Created: <a href="pages/'.$state.'.html"> '.$state.'.html</a><br>';
+echo 'File Created: <a href="pages/'.$lowerunder.'.html"> '.$state.'.html</a><br>';
 echo '</td>';
 echo '</tr>';
 echo '</table>';
